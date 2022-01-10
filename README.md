@@ -10,3 +10,5 @@ Which I think it's an eligant hands-on example to learn how to choose models.
 <img width="490" alt="Screen Shot 2022-01-10 at 6 43 35 pm" src="https://user-images.githubusercontent.com/37262666/148732269-c583f00d-c078-47c0-bb72-ef46ed36e42e.png">
 
 #### The analysis of the result can be found in the report in the repo, page 15, Question 3
+
+#### The rest of the report includes practice questions related topics in single and multiple regression (Question 1) and ridget and lasso regression (Question 2)
