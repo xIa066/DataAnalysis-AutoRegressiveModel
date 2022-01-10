@@ -11,4 +11,4 @@ Which I think it's an eligant hands-on example to learn how to choose models.
 
 #### The analysis of the result can be found in the report in the repo, page 15, Question 3
 
-#### The rest of the report includes practice questions related topics in single and multiple regression (Question 1) and ridget and lasso regression (Question 2)
+#### The rest of the report includes practice questions on existing R datasets, related topics in single and multiple regression (Question 1) and ridget and lasso regression (Question 2)
