@@ -1,4 +1,4 @@
-# DataAnalysis-AutoRegressiveModel
+# ModelSelection-AutoRegressiveModel
 
 This R program is an assignment question. It simulates an underlying time series autoregressive process, AR(p = 6), AR(p = 2) and fit it with models of p = 1...10. Then it evaluates all fits model based on 3 model criteria (IC1, IC2, IC3) and calculated the probability of overfitting when sample size of the underlying process goes to infinity.
 
